@@ -1,5 +1,5 @@
 # Sustainable-Extraction-of-Starch-from-Potato-Peel-Waste-PPW-
-https://drive.google.com/drive/folders/1nyQ2p9A98Xa90zazuS9leqbpcunh70cT?usp=sharing
+
 As part of my Energy and Environment minor coursework, I undertook a project on the Sustainable Extraction of Starch from Potato Peel Waste (PPW), aiming to transform agro-industrial waste into valuable resources through green process engineering.
 
 The project focused on extracting starch using an eco-efficient alkaline hydrolysis method, where potato peel waste was treated with NaOH solutions of varying concentrations (0.1N–1.0N). Following mechanical pre-processing (grinding, drying), the workflow involved:
