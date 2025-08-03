@@ -21,3 +21,5 @@ Through systematic experimentation, we determined that 0.8N NaOH was the optimal
 - Negligible effect of homogenization on absorbance or extraction efficiency, highlighting the robustness of the baseline method.
 
 The entire process was designed with sustainability in mind, incorporating water recycling, low chemical load, and minimal energy inputs, aligned with circular economy principles. The quality analysis showed that the recovered starch exhibited comparable characteristics to commercial-grade starch, suggesting potential applications in bio-materials and bio-energy sectors.
+
+[Extraction of Starch from Potato Peel Waste-1[1].pdf](https://github.com/user-attachments/files/21565583/Extraction.of.Starch.from.Potato.Peel.Waste-1.1.pdf)
